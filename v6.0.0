@@ -1,0 +1,8 @@
+- blog-assets
+ - 6.0.0
+    - cache
+    - css
+    - fonts
+    - img
+    - js
+    - libs
